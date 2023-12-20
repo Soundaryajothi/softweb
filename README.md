@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -911,7 +912,7 @@ Publish the website in the given URL.
     </footer>
   </body>
 </html>
-
+```
 
 ## OUTPUT:
 ![Alt text](<Screenshot 2023-12-20 221732.png>)
