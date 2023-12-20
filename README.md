@@ -28,7 +28,6 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-HOME PAGE:
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -101,8 +100,7 @@ HOME PAGE:
       #search.hover {
         border: 1px;
         padding: 10px;
-
-        transition: 0.5s;
+         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
         background:blueviolet;
@@ -123,7 +121,6 @@ HOME PAGE:
       .navbar li:hover {
         border: 1px;
         padding: 10px;
-
         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
@@ -189,7 +186,6 @@ HOME PAGE:
       footer {
         border: 1px;
         padding: 10px;
-
         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
@@ -205,10 +201,10 @@ HOME PAGE:
       <div class="navbar">
         <h1 class="logo">T<span>IME</span>X<span>PERTS</span></h1>
         <ul>
-          <li><a href="pg 1.html"> Home </a></li>
-          <li><a href="PG 2.html"> Products </a></li>
-          <li><a href="Pg 3.html"> People </a></li>
-          <li><a href="pg 4.html"> Contact </a></li>
+          <li><a href="home.html"> Home </a></li>
+          <li><a href="product.html"> Products </a></li>
+          <li><a href="people.html"> People </a></li>
+          <li><a href="contact.html"> Contact </a></li>
         </ul>
         <form action="" method="get">
           <input type="text" placeholder="Enter to Search" />
@@ -221,7 +217,6 @@ HOME PAGE:
             WE ARE BUILDING SOFTWARE TO HELP
           </h2>
           <br />
-
           <br />
           <div>
             <a href="#" class="login"> Log In </a>
@@ -235,7 +230,7 @@ HOME PAGE:
     </footer>
   </body>
 </html>
-PEOPLE PAGE:
+
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -326,7 +321,6 @@ PEOPLE PAGE:
       .navbar li:hover {
         border: 1px;
         padding: 10px;
-
         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
@@ -338,7 +332,6 @@ PEOPLE PAGE:
         position: relative;
         border: 0;
         top: 150px;
-
         background: transparent;
       }
       .image table {
@@ -360,7 +353,6 @@ PEOPLE PAGE:
       footer {
         border: 1px;
         padding: 10px;
-
         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
@@ -394,23 +386,20 @@ PEOPLE PAGE:
             <td><img src="vijay.jpeg" /></td>
             <td><img src="dhanush.jpeg" /></td>
             <td><img src="ar.jpeg" /></td>
-        
-          </tr>
+            </tr>
           <tr align="center">
             <th>SOUNDARYA</th>
             <th>SIDD AHMED</th>
             <th>VIJAY</th>
             <th>DHANUSH</th>
             <th>AR RAHMAN</th>
-            
-          </tr>
+            </tr>
           <tr align="center">
             <td>CEO</td>
             <td>CEO,Co-Founder</td>
             <td>CTO,Co-Founder</td>
             <td>DIRECTOR</td>
             <td>Asst.Director</td>
-        
           </tr>
         </table>
       </div>
@@ -420,7 +409,7 @@ PEOPLE PAGE:
     </footer>
   </body>
 </html>
-PRODUCT PAGE
+
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -511,7 +500,6 @@ PRODUCT PAGE
       .navbar li:hover {
         border: 1px;
         padding: 10px;
-
         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
@@ -554,7 +542,6 @@ PRODUCT PAGE
       footer {
         border: 1px;
         padding: 10px;
-
         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
@@ -684,8 +671,6 @@ PRODUCT PAGE
   </body>
 </html>
 
-CONTACT PAGE:
-
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -776,8 +761,7 @@ CONTACT PAGE:
       .navbar li:hover {
         border: 1px;
         padding: 10px;
-
-        transition: 0.5s;
+       transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
         background: blueviolet;
@@ -871,7 +855,6 @@ CONTACT PAGE:
       footer {
         border: 1px;
         padding: 10px;
-
         transition: 0.5s;
         cursor: pointer;
         border-radius: 30px;
